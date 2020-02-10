@@ -2,4 +2,4 @@
 
 This repository summarizes my project on clustering cities for similar livable project.
 
-See the [main page](https://github.com/nhohung/CityLivabilityClustering/blob/master/ClusteringCitiesForSimilarLivability.ipynb)
+See the [main page](https://nbviewer.jupyter.org/github/nhohung/CityLivabilityClustering/blob/master/ClusteringCitiesForSimilarLivabilityFinal.ipynb)
